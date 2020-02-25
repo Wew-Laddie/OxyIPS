@@ -1,0 +1,10 @@
+[package]
+name = "oxyips"
+version = "0.1.0"
+authors = ["alex"]
+edition = "2018"
+description = "A simple command-line IPS patcher for ROMhacking."
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
