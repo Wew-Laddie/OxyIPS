@@ -1,7 +1,7 @@
 [package]
 name = "oxyips"
-version = "0.1.0"
-authors = ["alex"]
+version = "1.0.0"
+authors = ["Wew-Laddie"]
 edition = "2018"
 description = "A simple command-line IPS patcher for ROMhacking."
 
